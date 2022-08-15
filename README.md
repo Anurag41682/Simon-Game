@@ -1,1 +1,1 @@
-# SimonGame.github.io
+# SimonGame
